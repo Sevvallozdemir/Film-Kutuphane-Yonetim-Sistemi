@@ -1,0 +1,90 @@
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Form1.resources
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.exe
+C:\Users\DELL\Desktop\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll.config
+C:\Users\DELL\Desktop\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.deps.json
+C:\Users\DELL\Desktop\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.runtimeconfig.json
+C:\Users\DELL\Desktop\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\DELL\Desktop\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\refint\Nesne DönemProjesi.dll
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\ref\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.exe
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll.config
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.deps.json
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.runtimeconfig.json
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.AssemblyReference.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Form1.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.kullanicigirisekrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.GenerateResource.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfoInputs.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfo.cs
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.CoreCompileInputs.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\refint\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.genruntimeconfig.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\ref\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiGirisEkrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiEkrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.KullaniciEkrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.KullaniciEkrani.resources
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.kullanicigirisekrani.resources
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiEkrani.resources
+C:\Users\DELL\Desktop\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiGirisEkrani.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.exe
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll.config
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.deps.json
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.runtimeconfig.json
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\bin\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Form1.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.KullaniciEkrani.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.kullanicigirisekrani.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiEkrani.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiGirisEkrani.resources
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\refint\Nesne DönemProjesi.dll
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\Nesne DönemProjesi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\NYP PROJE\Nesne DönemProjesi\obj\Debug\net6.0-windows\ref\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\bin\Debug\net6.0-windows\Nesne DönemProjesi.exe
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll.config
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\bin\Debug\net6.0-windows\Nesne DönemProjesi.deps.json
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\bin\Debug\net6.0-windows\Nesne DönemProjesi.runtimeconfig.json
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\bin\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\bin\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.AssemblyReference.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Form1.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne_DönemProjesi.KullaniciEkrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne_DönemProjesi.kullanicigirisekrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne_DönemProjesi.Properties.Resources.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiEkrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne_DönemProjesi.YöneticiGirisEkrani.resources
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.GenerateResource.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfoInputs.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.AssemblyInfo.cs
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.csproj.CoreCompileInputs.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\refint\Nesne DönemProjesi.dll
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.pdb
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\Nesne DönemProjesi.genruntimeconfig.cache
+C:\Users\se_vv\Downloads\Nesne DönemProjesi2\obj\Debug\net6.0-windows\ref\Nesne DönemProjesi.dll
